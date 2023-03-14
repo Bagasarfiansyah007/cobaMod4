@@ -1,0 +1,12 @@
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/bin/Debug/netcoreapp3.1/modul3.deps.json
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/bin/Debug/netcoreapp3.1/modul3.runtimeconfig.json
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/bin/Debug/netcoreapp3.1/modul3.runtimeconfig.dev.json
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/bin/Debug/netcoreapp3.1/modul3.dll
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/bin/Debug/netcoreapp3.1/modul3.pdb
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.csprojAssemblyReference.cache
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.AssemblyInfoInputs.cache
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.AssemblyInfo.cs
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.csproj.CoreCompileInputs.cache
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.dll
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.pdb
+/Users/AMS/Documents/asprak/KPL/modul3/modul3/obj/Debug/netcoreapp3.1/modul3.genruntimeconfig.cache
