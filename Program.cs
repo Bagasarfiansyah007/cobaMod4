@@ -27,11 +27,6 @@ namespace modul3
             posisi.triggerTombolUntukBerjalan(PosisiKarakterGame.TriggerPosisi.TombolW);
             Console.WriteLine("Posisi setelah menakan tombol: " + posisi.currentState);
 
-            Console.WriteLine("");
-
-            Console.WriteLine("Posisi saat ini              : " + posisi.currentState);
-            posisi.triggerTombolUntukBerjalan(PosisiKarakterGame.TriggerPosisi.TombolS);
-            Console.WriteLine("Posisi setelah menakan tombol: " + posisi.currentState);
         }
     }
 }
